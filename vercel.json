@@ -2,7 +2,7 @@
     "routes": [
         {
             "src": "^/$",
-            "dest": "/Projeto/Index.html"
+            "dest": "/Projeto-1/Index.html"
         }
     ]
 }
